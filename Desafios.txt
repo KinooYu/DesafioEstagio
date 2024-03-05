@@ -1,0 +1,7 @@
+Desafio 1 o valor da soma é: 91
+
+Desafio 3:  A-9, B-128, C-49, D-100, E-13, F- 200
+
+Lógica: A- números ímpares, B- potência de 2, C- 7 vezes 7 , D- números pares elevados a 2, E- sequência de Fibonacci, F- números que começam com D
+
+Desafio 4: Ligaria 2 interruptores e deixaria um desligado. Em seguida, iria até a sala desligada e então saberia qual era o interruptor dela. Voltaria para a sala dos interruptores, desligaria mais um e depois retornaria para verificar qual sala foi desligada, descobrindo assim o interruptor de cada sala.
